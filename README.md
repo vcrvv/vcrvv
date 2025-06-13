@@ -26,6 +26,7 @@
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin-right: 5px">
   <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="margin-right: 5px">
   <img align="center" alt="MongoDB" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="margin-right: 5px">
+  <img align="center" alt="Redis" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="margin-right: 5px">
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="margin-right: 5px">
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 5px">
   <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="margin-right: 5px">
