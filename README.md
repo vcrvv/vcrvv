@@ -34,5 +34,6 @@
 ##
 
 <div>
-  <img height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcrvv&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=00000000" />
+  <img height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcrvv&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=00000000&v=3" />
 </div>
+
